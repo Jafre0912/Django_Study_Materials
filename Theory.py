@@ -4,3 +4,7 @@
 # Template (used for frontend) : Django templates frontend ka kaam karte hain
 
 # installing djnago App: django-admin startproject MyApp
+
+# command to run the project : python manage.py runserver
+# run on diffrent port: python manage.py runserver
+
