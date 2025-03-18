@@ -8,3 +8,4 @@
 # command to run the project : python manage.py runserver
 # run on diffrent port: python manage.py runserver
 
+# to update database: python manage.py migrate
