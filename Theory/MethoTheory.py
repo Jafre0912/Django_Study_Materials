@@ -1,3 +1,5 @@
+# HTTP request: ek client (browser/postman) aur server ke beech data exchange ka tarika hai, jisme client server se GET, POST, PUT, DELETE jaise methods se data maangta ya bhejta hai. 
+
 # GET vs POST: Key Differences 🚀
 #Feature                         	GET	                                                POST
 #Purpose	                  Data fetch karne ke liye	                           Data send karne ke liye
